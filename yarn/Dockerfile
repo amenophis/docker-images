@@ -1,4 +1,4 @@
-FROM node:7.5
+FROM node:8
 
 # Let the container know that there is no tty
 ENV DEBIAN_FRONTEND noninteractive
